@@ -57,6 +57,10 @@ export const models: Array<{ name: string; path: string }> = [
     path: "vosk-model-small-it-0.4.tar.gz",
   },
   {
+    name: "Japanese",
+    path: "vosk-model-small-ja-0.22.tar.gz",
+  },
+  {
     name: "Malayalam",
     path: "vosk-model-malayalam-bigram.tar.gz",
   },
